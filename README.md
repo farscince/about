@@ -24,7 +24,7 @@
 
 Благодарю своих руководителей за положительную оценку моих трудов. Для получения контактов прошу писать в личку.
 
-[](#recommendation)
+<a name="recommendation"></a>
 <details>
 <summary>Recommendation</summary>
 	<img src="./img/recommendation.jpg" alt="recommendation" width="500" height="700"/>
@@ -33,5 +33,5 @@
 
 
 ## Что дальше?
-
-Следующая цель - изучить Node JS, понять, как он работает. В качестве проекта решил реализовать игру [](#squares)["Квадраты"](https://github.com/farscince/myProjects/tree/master/squares)
+<a name="squares"></a>
+Следующая цель - изучить Node JS, понять, как он работает. В качестве проекта решил реализовать игру ["Квадраты"](https://github.com/farscince/myProjects/tree/master/squares)
